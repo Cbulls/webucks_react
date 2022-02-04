@@ -9,8 +9,6 @@ HTML, CSS, JavaScript 및 React를 활용한 스타벅스 클론 코딩 프로�
 
 📌 주제: React를 사용한 스타벅스 홈페이지 클론 코딩
 - CRA 사용한 초기 세팅
-- 팀원 간 공동 컴포넌트와 레포지토리 사용 및 관리
-- Git 사용한 협업 프로젝트
 
 <p>[ 로그인 페이지 ]</p>
 <img width="800" alt="login" src="https://user-images.githubusercontent.com/89235056/145535872-2df3ecef-769b-42b7-8643-2cf8d8da737a.jpg">
@@ -37,8 +35,6 @@ HTML, CSS, JavaScript 및 React를 활용한 스타벅스 클론 코딩 프로�
 ### 🧾 디테일 페이지
 - 상단 좋아요 기능 구현
 - 리뷰 댓글 기능 구현
-- 리뷰별 좋아요 기능 구현
-- 리뷰 삭제 기능 구현
 
 <br>
 
